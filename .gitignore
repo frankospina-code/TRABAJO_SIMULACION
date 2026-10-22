@@ -1,0 +1,6 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+diagrama_flujo_yahtzee.dot
+diagrama_flujo_yahtzee.png
